@@ -1,0 +1,15 @@
+﻿  Circulo.cpp
+C:\Users\ONAN\Desktop\PrograIII\proyectoClases\Circulo.cpp(7,11): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ONAN\Desktop\PrograIII\proyectoClases\Circulo.cpp(8,14): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ONAN\Desktop\PrograIII\proyectoClases\Circulo.cpp(11,18): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  Cometa.cpp
+  Cuadrado.cpp
+C:\Users\ONAN\Desktop\PrograIII\proyectoClases\Cuadrado.cpp(7,12): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  Paralelograma.cpp
+  proyectoClases.cpp
+  Rectangulo.cpp
+  Rombo.cpp
+  Trapecio.cpp
+  Triangulo.cpp
+  Generando código...
+  proyectoClases.vcxproj -> C:\Users\ONAN\Desktop\PrograIII\proyectoClases\x64\Debug\proyectoClases.exe
